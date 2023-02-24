@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 
 
-<!--
-**myazid13/myazid13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **M.Yazid**.
 
-Here are some ideas to get you started:
+I'm a Student at Universitas Negeri Surabaya, currently majoring at Informatics Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Find me!</h3>
+<p align="center">
+<img alt="Linkedin Badge" src="https://img.shields.io/badge/-M.Yazid-cyan?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/m-yazid13/" >
+<img alt="Instagram Badge" src="https://img.shields.io/badge/-myazid13-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/myazid_13/">
+
+
+<p align="left">
+<a href="https://github.com/daniram27"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=myazid13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myazid13&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
