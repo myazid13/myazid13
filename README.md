@@ -43,6 +43,22 @@ I'm 22 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yazid's streak" src="https://github-readme-streak-stats.herokuapp.com?user=yazz803&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j&stroke=9fc5e8&fire=9fc5e8&currStreakNum=9fc5e8&sideNums=9fc5e8&sideLabels=9fc5e8&currStreakLabel=9fc5e8&ring=9fc5e8&background=0D1117"/>
     </a>
 </p>
+
+## My Github Stats
+
+  <br/>
+    <a><img alt=“M.Yazid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=myazid13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=9fc5e8&icon_color=6fa8dc" /></a>
+  <a><img alt="Yazid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myazid13&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=9fc5e8" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a><img alt="Yazid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yazz803&bg_color=0D1117&color=9fc5e8&line=9fc5e8&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 <br/>
 
 ## Connect with me:
