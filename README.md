@@ -56,7 +56,6 @@ I'm 22 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
 <br/>
 <br/>
 
-<a><img alt="Yazid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yazz803&bg_color=0D1117&color=9fc5e8&line=9fc5e8&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -65,7 +64,7 @@ I'm 22 y.o and I love Laravel, Bootstrap, MDBootstrap, DBMS MySQL. I'm currently
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/m-yazid13/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/myazid13/“><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/myazid_13/“><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
